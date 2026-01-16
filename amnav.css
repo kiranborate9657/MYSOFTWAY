@@ -1,0 +1,12 @@
+*
+{
+    padding: 0px;
+    margin:0px;
+    color: white;
+    font-size: 5px;
+}
+#navbar{
+    height:20px;
+    width:100%;
+    background-color: black;
+}
